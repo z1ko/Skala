@@ -1,0 +1,8 @@
+
+!! URxvt apparence
+URxvt.scrollBar: 	false
+URxvt.letterSpace: 	1
+URxvt.font: 		xft:Inconsolata Nerd Font Mono:pixelsize=16:minspace=false, xft:DejaVu Sans:pixelsize=16
+URxvt.boldFont: 	xft:Inconsolata Nerd Font Mono:pixelsize=16:minspace=false, xft:DejaVu Sans:pixelsize=16
+
+!! TEST
